@@ -5,7 +5,8 @@
 ### Programming Languages & Frameworks
 
 
-![C++](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
